@@ -10,12 +10,6 @@ The idea is for this to be a living document.  Some things will get changed, too
 
 Remember - Routine, Enumerate, Loot.
 
-## Recognition
-This is the first substantiative project I've tried to put together, and I want to thank the friends and mentors that have helped me keep getting better and contributed in some way to this project or to my knowledge base :
-- Andres Sevilla
-- Adeeb Shah
-- Thomas Pham
-
 ## Sources
 - [Hacktricks](https://book.hacktricks.xyz/welcome/readme)
 - [Sushant Total OSCP Guide](https://sushant747.gitbooks.io/total-oscp-guide/content/list_of_common_ports.html)
