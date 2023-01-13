@@ -15,6 +15,7 @@ Remember - Routine, Enumerate, Loot.
 - [Sushant Total OSCP Guide](https://sushant747.gitbooks.io/total-oscp-guide/content/list_of_common_ports.html)
 - [Pentesting Guide](https://github.com/pha5matis/Pentesting-Guide/blob/master/list_of_common_ports.md)
 - [GTFOBins](https://gtfobins.github.io/)
+- [LOLBAS](https://lolbas-project.github.io/)
 - [PayloadsAllTheThings](https://github.com/swisskyrepo/PayloadsAllTheThings)
 - [Pentest Monkey](https://pentestmonkey.net/)
 - [TCM Security](https://academy.tcm-sec.com/)
